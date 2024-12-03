@@ -1,1 +1,4 @@
 MLOps/smoking_driking.csv filter=lfs diff=lfs merge=lfs -text
+ML_Deep-ImageResolutionTest/autoencoder_unet2_div2k.h5 filter=lfs diff=lfs merge=lfs -text
+ML_Deep-ImageResolutionTest/autoencoder_unet_div2k.h5 filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
